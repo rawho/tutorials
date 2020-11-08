@@ -4,9 +4,9 @@
 
 | Title | Author | 
 |---|---|
-|[Create a django application](create-django-application.md)| [rawho](https://github.com/rawho)|
-|[Deploy django to heroku](deploy-django-to-heroku.md) | [rawho](https://github.com/rawho)|
-|[Deploy django to aws](deploy-django-to-aws.md)| [rawho](https://github.com/rawho)||
+|[Create a django application](create-django-application.md)| [Rahul T](https://github.com/rawho)|
+|[Deploy django to heroku](deploy-django-to-heroku.md) | [Rahul T](https://github.com/rawho)|
+|[Deploy django to aws](deploy-django-to-aws.md)| [Rahul T](https://github.com/rawho)||
 
 
 
