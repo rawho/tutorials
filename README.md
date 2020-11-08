@@ -1,9 +1,13 @@
 # This is a tutorial series.
 
 ## Django
-- [Create a django application](create-django-application.md)
-- [Deploy django to heroku](deploy-django-to-heroku.md)
-- [Deploy django to aws](deploy-django-to-aws.md)
+
+| Title | Author | 
+|---|---|
+|[Create a django application](create-django-application.md)| [rawho](https://github.com/rawho)|
+|[Deploy django to heroku](deploy-django-to-heroku.md) | [rawho](https://github.com/rawho)|
+|[Deploy django to aws](deploy-django-to-aws.md)| [rawho](https://github.com/rawho)||
+
 
 
 ### Contributions
